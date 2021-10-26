@@ -1,0 +1,13 @@
+C:\Users\marku\source\repos\kayttajaNimi\kayttajaNimi\obj\Debug\netcoreapp3.1\kayttajaNimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\kayttajaNimi\kayttajaNimi\obj\Debug\netcoreapp3.1\kayttajaNimi.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\kayttajaNimi\kayttajaNimi\obj\Debug\netcoreapp3.1\kayttajaNimi.AssemblyInfo.cs
+C:\Users\marku\source\repos\kayttajaNimi\kayttajaNimi\obj\Debug\netcoreapp3.1\kayttajaNimi.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\kayttajaNimi\kayttajaNimi\bin\Debug\netcoreapp3.1\kayttajaNimi.exe
+C:\Users\marku\source\repos\kayttajaNimi\kayttajaNimi\bin\Debug\netcoreapp3.1\kayttajaNimi.deps.json
+C:\Users\marku\source\repos\kayttajaNimi\kayttajaNimi\bin\Debug\netcoreapp3.1\kayttajaNimi.runtimeconfig.json
+C:\Users\marku\source\repos\kayttajaNimi\kayttajaNimi\bin\Debug\netcoreapp3.1\kayttajaNimi.runtimeconfig.dev.json
+C:\Users\marku\source\repos\kayttajaNimi\kayttajaNimi\bin\Debug\netcoreapp3.1\kayttajaNimi.dll
+C:\Users\marku\source\repos\kayttajaNimi\kayttajaNimi\bin\Debug\netcoreapp3.1\kayttajaNimi.pdb
+C:\Users\marku\source\repos\kayttajaNimi\kayttajaNimi\obj\Debug\netcoreapp3.1\kayttajaNimi.dll
+C:\Users\marku\source\repos\kayttajaNimi\kayttajaNimi\obj\Debug\netcoreapp3.1\kayttajaNimi.pdb
+C:\Users\marku\source\repos\kayttajaNimi\kayttajaNimi\obj\Debug\netcoreapp3.1\kayttajaNimi.genruntimeconfig.cache

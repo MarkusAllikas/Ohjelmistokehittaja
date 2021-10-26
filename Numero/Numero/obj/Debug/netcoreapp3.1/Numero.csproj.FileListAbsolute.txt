@@ -1,0 +1,14 @@
+C:\Users\marku\source\repos\Numero\Numero\bin\Debug\netcoreapp3.1\Numero.exe
+C:\Users\marku\source\repos\Numero\Numero\bin\Debug\netcoreapp3.1\Numero.deps.json
+C:\Users\marku\source\repos\Numero\Numero\bin\Debug\netcoreapp3.1\Numero.runtimeconfig.json
+C:\Users\marku\source\repos\Numero\Numero\bin\Debug\netcoreapp3.1\Numero.runtimeconfig.dev.json
+C:\Users\marku\source\repos\Numero\Numero\bin\Debug\netcoreapp3.1\Numero.dll
+C:\Users\marku\source\repos\Numero\Numero\bin\Debug\netcoreapp3.1\Numero.pdb
+C:\Users\marku\source\repos\Numero\Numero\obj\Debug\netcoreapp3.1\Numero.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\Numero\Numero\obj\Debug\netcoreapp3.1\Numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\Numero\Numero\obj\Debug\netcoreapp3.1\Numero.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\Numero\Numero\obj\Debug\netcoreapp3.1\Numero.AssemblyInfo.cs
+C:\Users\marku\source\repos\Numero\Numero\obj\Debug\netcoreapp3.1\Numero.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\Numero\Numero\obj\Debug\netcoreapp3.1\Numero.dll
+C:\Users\marku\source\repos\Numero\Numero\obj\Debug\netcoreapp3.1\Numero.pdb
+C:\Users\marku\source\repos\Numero\Numero\obj\Debug\netcoreapp3.1\Numero.genruntimeconfig.cache
