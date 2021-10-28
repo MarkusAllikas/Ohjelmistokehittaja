@@ -48,11 +48,19 @@ namespace Laskuharjoitus1
                 string x4 = Console.ReadLine();
                 Console.WriteLine("Anna y:lle arvo");
                 string y4 = Console.ReadLine();
-                int XY4 = int.Parse(x4);
-                Console.WriteLine(XY4 / y4);*/
+                Console.WriteLine(x4 / y4);*/
 
 
-                // Lasku 5: x = x % y;
+                // Lasku 5: x = x % y; Kesken;
+                /*Console.WriteLine("Lasku 5");
+                Console.WriteLine("Anna x:lle arvo");
+                string x5 = Console.ReadLine();
+                Console.WriteLine("Anna y:lle arvo");
+                string y5 = Console.ReadLine();
+                int XY5 = int.Parse(x5 = y5);
+                Console.WriteLine(XY5 %= y5);
+                Console.WriteLine(" ");*/
+
 
 
                 // Lasku 6: x += y;
