@@ -1,0 +1,14 @@
+C:\Users\marku\source\repos\kumpiSuurempi\kumpiSuurempi\obj\Debug\netcoreapp3.1\kumpiSuurempi.csproj.AssemblyReference.cache
+C:\Users\marku\source\repos\kumpiSuurempi\kumpiSuurempi\obj\Debug\netcoreapp3.1\kumpiSuurempi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\source\repos\kumpiSuurempi\kumpiSuurempi\obj\Debug\netcoreapp3.1\kumpiSuurempi.AssemblyInfoInputs.cache
+C:\Users\marku\source\repos\kumpiSuurempi\kumpiSuurempi\obj\Debug\netcoreapp3.1\kumpiSuurempi.AssemblyInfo.cs
+C:\Users\marku\source\repos\kumpiSuurempi\kumpiSuurempi\obj\Debug\netcoreapp3.1\kumpiSuurempi.csproj.CoreCompileInputs.cache
+C:\Users\marku\source\repos\kumpiSuurempi\kumpiSuurempi\bin\Debug\netcoreapp3.1\kumpiSuurempi.exe
+C:\Users\marku\source\repos\kumpiSuurempi\kumpiSuurempi\bin\Debug\netcoreapp3.1\kumpiSuurempi.deps.json
+C:\Users\marku\source\repos\kumpiSuurempi\kumpiSuurempi\bin\Debug\netcoreapp3.1\kumpiSuurempi.runtimeconfig.json
+C:\Users\marku\source\repos\kumpiSuurempi\kumpiSuurempi\bin\Debug\netcoreapp3.1\kumpiSuurempi.runtimeconfig.dev.json
+C:\Users\marku\source\repos\kumpiSuurempi\kumpiSuurempi\bin\Debug\netcoreapp3.1\kumpiSuurempi.dll
+C:\Users\marku\source\repos\kumpiSuurempi\kumpiSuurempi\bin\Debug\netcoreapp3.1\kumpiSuurempi.pdb
+C:\Users\marku\source\repos\kumpiSuurempi\kumpiSuurempi\obj\Debug\netcoreapp3.1\kumpiSuurempi.dll
+C:\Users\marku\source\repos\kumpiSuurempi\kumpiSuurempi\obj\Debug\netcoreapp3.1\kumpiSuurempi.pdb
+C:\Users\marku\source\repos\kumpiSuurempi\kumpiSuurempi\obj\Debug\netcoreapp3.1\kumpiSuurempi.genruntimeconfig.cache
