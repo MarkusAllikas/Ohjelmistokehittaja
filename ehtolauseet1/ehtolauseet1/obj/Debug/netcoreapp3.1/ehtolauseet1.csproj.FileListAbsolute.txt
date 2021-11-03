@@ -1,0 +1,14 @@
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\ehtolauseet1\ehtolauseet1\bin\Debug\netcoreapp3.1\ehtolauseet1.exe
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\ehtolauseet1\ehtolauseet1\bin\Debug\netcoreapp3.1\ehtolauseet1.deps.json
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\ehtolauseet1\ehtolauseet1\bin\Debug\netcoreapp3.1\ehtolauseet1.runtimeconfig.json
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\ehtolauseet1\ehtolauseet1\bin\Debug\netcoreapp3.1\ehtolauseet1.runtimeconfig.dev.json
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\ehtolauseet1\ehtolauseet1\bin\Debug\netcoreapp3.1\ehtolauseet1.dll
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\ehtolauseet1\ehtolauseet1\bin\Debug\netcoreapp3.1\ehtolauseet1.pdb
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\ehtolauseet1\ehtolauseet1\obj\Debug\netcoreapp3.1\ehtolauseet1.csproj.AssemblyReference.cache
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\ehtolauseet1\ehtolauseet1\obj\Debug\netcoreapp3.1\ehtolauseet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\ehtolauseet1\ehtolauseet1\obj\Debug\netcoreapp3.1\ehtolauseet1.AssemblyInfoInputs.cache
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\ehtolauseet1\ehtolauseet1\obj\Debug\netcoreapp3.1\ehtolauseet1.AssemblyInfo.cs
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\ehtolauseet1\ehtolauseet1\obj\Debug\netcoreapp3.1\ehtolauseet1.csproj.CoreCompileInputs.cache
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\ehtolauseet1\ehtolauseet1\obj\Debug\netcoreapp3.1\ehtolauseet1.dll
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\ehtolauseet1\ehtolauseet1\obj\Debug\netcoreapp3.1\ehtolauseet1.pdb
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\ehtolauseet1\ehtolauseet1\obj\Debug\netcoreapp3.1\ehtolauseet1.genruntimeconfig.cache
