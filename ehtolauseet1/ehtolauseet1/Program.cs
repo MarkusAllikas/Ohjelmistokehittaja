@@ -83,7 +83,7 @@ namespace ehtolauseet1
             }
 
             // Tehtävä 4: Ohjelma kysyy 5 kokonaislukua ja kertoo mikä on isoin.
-            //kesken
+            //keskeN  
         }
     }
 }
