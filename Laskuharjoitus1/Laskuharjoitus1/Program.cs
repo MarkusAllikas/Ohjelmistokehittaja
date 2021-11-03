@@ -76,7 +76,7 @@ namespace Laskuharjoitus1
             double x9 = double.Parse(Console.ReadLine());
             Console.WriteLine("Syötä toinen luku");
             double y9 = double.Parse(Console.ReadLine());
-            Console.WriteLine("x = " + (x9 /= y9));
+            Console.WriteLine("x = " + (x9 /= y9)); 
 
         }
     }
