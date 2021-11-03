@@ -1,0 +1,14 @@
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\Laskuharjoitus1\Laskuharjoitus1\obj\Debug\netcoreapp3.1\Laskuharjoitus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\Laskuharjoitus1\Laskuharjoitus1\obj\Debug\netcoreapp3.1\Laskuharjoitus1.AssemblyInfoInputs.cache
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\Laskuharjoitus1\Laskuharjoitus1\obj\Debug\netcoreapp3.1\Laskuharjoitus1.AssemblyInfo.cs
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\Laskuharjoitus1\Laskuharjoitus1\obj\Debug\netcoreapp3.1\Laskuharjoitus1.csproj.CoreCompileInputs.cache
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\Laskuharjoitus1\Laskuharjoitus1\bin\Debug\netcoreapp3.1\Laskuharjoitus1.exe
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\Laskuharjoitus1\Laskuharjoitus1\bin\Debug\netcoreapp3.1\Laskuharjoitus1.deps.json
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\Laskuharjoitus1\Laskuharjoitus1\bin\Debug\netcoreapp3.1\Laskuharjoitus1.runtimeconfig.json
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\Laskuharjoitus1\Laskuharjoitus1\bin\Debug\netcoreapp3.1\Laskuharjoitus1.runtimeconfig.dev.json
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\Laskuharjoitus1\Laskuharjoitus1\bin\Debug\netcoreapp3.1\Laskuharjoitus1.dll
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\Laskuharjoitus1\Laskuharjoitus1\bin\Debug\netcoreapp3.1\Laskuharjoitus1.pdb
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\Laskuharjoitus1\Laskuharjoitus1\obj\Debug\netcoreapp3.1\Laskuharjoitus1.dll
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\Laskuharjoitus1\Laskuharjoitus1\obj\Debug\netcoreapp3.1\Laskuharjoitus1.pdb
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\Laskuharjoitus1\Laskuharjoitus1\obj\Debug\netcoreapp3.1\Laskuharjoitus1.genruntimeconfig.cache
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\Laskuharjoitus1\Laskuharjoitus1\obj\Debug\netcoreapp3.1\Laskuharjoitus1.csproj.AssemblyReference.cache
