@@ -73,7 +73,7 @@ namespace Laskuharjoitus1
             //lasku 9: x /= y;
             Console.WriteLine("9. lasku");
             Console.WriteLine("Syötä yksi luku");
-            double x9 = double.Parse(Console.ReadLine());
+            double x9 = double.Parse(Console.ReadLine());  
             Console.WriteLine("Syötä toinen luku");
             double y9 = double.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (x9 /= y9)); 
