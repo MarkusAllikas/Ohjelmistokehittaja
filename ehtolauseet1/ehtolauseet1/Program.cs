@@ -223,6 +223,13 @@ namespace ehtolauseet1
 
             Console.WriteLine("Tehtävä 7:");
             Console.WriteLine("kesken.");
+            Console.WriteLine("Syötä kokonaisluku väliltä 1-999");
+            string luku = Console.ReadLine();
+            int pikkus = luku.Length;
+            if (pikkus = 3)
+            {
+
+            } //kesken.
 
 
 
