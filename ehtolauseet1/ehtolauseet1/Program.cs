@@ -8,6 +8,7 @@ namespace ehtolauseet1
         {
             // Tehtävä 1: Ehtolause, joka vertaa kahta annettua lukua ja tulostaa ne suuruusjärjestyksessä
             Console.WriteLine("Tehtävä 1: ");
+            Console.WriteLine("Sinulta kysytään 2 lukua ja sitten ne tulostetaan suuruusjärjestyksessä")
             Console.WriteLine("Anna yksi luku");
             int x1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen luku");
@@ -23,6 +24,7 @@ namespace ehtolauseet1
 
             // Tehtävä 2: Kysyy 3 lukua ja tulostaa niistä isoimman.
             Console.WriteLine("Tehtävä 2: ");
+            Console.WriteLine("Sinulta kysytään 3 kokonaislukua ja sitten sulle kerrotaan mikä niistä oli isoin luku.")
             Console.WriteLine("Anna yksi luku");
             int x2 = int.Parse(Console.ReadLine());
             int isoin = x2;
@@ -43,6 +45,7 @@ namespace ehtolauseet1
 
             // Tehtävä 3: Kysyy luvun 0-9 ja riippuen luvusta tulostaa sen sanana.
             Console.WriteLine("Tehtävä 3: ");
+            Console.WriteLine("");
             Console.WriteLine("Anna numero 0-9");
             string nro09 = Console.ReadLine();
             switch(nro09)
@@ -113,7 +116,7 @@ namespace ehtolauseet1
             Console.WriteLine("Kerro numerolla(1-3): ");
             string qq = Console.ReadLine();
             zzz:
-            switch(qq)
+            switch (qq)
             {
                 case "1":
                     Console.WriteLine("Syötä kokonaisluku: ");
@@ -139,6 +142,48 @@ namespace ehtolauseet1
                     goto zzz;
 
             }
+
+
+            // Tehtävä 6:
+            // Kirjoita ohjelma, joka kasvattaa bonuspisteitä seuraavasti:
+            // Jos pisteet ovat välillä 1-3, ohjelma kertoo pisteet 10:llä.
+            // Mikäli pisteet ovat välillä 4-6, ohjelma kertoo pisteet 100:lla
+            // ja mikäli pisteet ovat välillä 7-9 ohjelma kertoo pisteet 1000:lla.
+            // Mikäli pisteitä on 0 tai yli 9, ohjelma tulostaa virheviestin.
+
+            Console.WriteLine("Tehtävä 6: ");
+            Console.WriteLine(" "); //ohjeet
+            Console.WriteLine("Syötä numero 1-9: ");
+            int bonus = int.Parse(Console.ReadLine());
+            bnous:
+            switch(bonus)
+            {
+                case 1:
+                case 2:
+                case 3:
+                    bonus = bonus * 10;
+                    Console.WriteLine("Sinulla on " + bonus + " bonuspistettä");
+                    break;
+                case 4:
+                case 5:
+                case 6:
+                    bonus = bonus * 100;
+                    Console.WriteLine("Sinulla on " + bonus + " bonuspistettä");
+                    break;
+                case 7:
+                case 8:
+                case 9:
+                    bonus = bonus * 1000;
+                    Console.WriteLine("Sinulla on " + bonus + " bonuspistettä");
+                    break;
+                default:
+                    Console.WriteLine("Virheellinen syöttö, syötä numero 1-9.");
+                    bonus = int.Parse(Console.ReadLine());
+                        goto bnous;
+                    break;
+            }
+
+
 
 
         }
