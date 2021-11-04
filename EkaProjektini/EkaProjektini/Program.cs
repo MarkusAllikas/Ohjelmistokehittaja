@@ -9,6 +9,7 @@ namespace EkaProjektini
             Console.WriteLine("n" +
                 "1663" +
                 "r");
+            /* kommentti */
         }
     }
 }
