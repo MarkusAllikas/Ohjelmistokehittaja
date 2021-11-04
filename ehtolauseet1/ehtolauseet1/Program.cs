@@ -6,9 +6,13 @@ namespace ehtolauseet1
     {
         static void Main(string[] args)
         {
-            // Tehtävä 1: Ehtolause, joka vertaa kahta annettua lukua ja tulostaa ne suuruusjärjestyksessä
+            // Tehtävä 1:
+            // Kirjoita ehtolause, joka pyytää käyttäjältä kahta kokonaislukuarvoa
+            // ja vaihtaa niiden paikkaa, mikäli ensimmäinen on suurempi kuin toinen
+            // (eli tulostaa suuruusjärj.)
+
             Console.WriteLine("Tehtävä 1: ");
-            Console.WriteLine("Sinulta kysytään 2 lukua ja sitten ne tulostetaan suuruusjärjestyksessä")
+            Console.WriteLine("Sinulta kysytään 2 lukua ja sitten ne tulostetaan suuruusjärjestyksessä");
             Console.WriteLine("Anna yksi luku");
             int x1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen luku");
@@ -20,11 +24,15 @@ namespace ehtolauseet1
             {
                 Console.WriteLine("Suuruusjärjestyksessä: " + y1 + " , " + x1);
             }
+            Console.WriteLine(" ");
+            Console.WriteLine(" ");
 
 
-            // Tehtävä 2: Kysyy 3 lukua ja tulostaa niistä isoimman.
+            // Tehtävä 2:
+            // Kirjoita ohjelma, joka etsii suurimman kolmesta kokonaisluvusta
+
             Console.WriteLine("Tehtävä 2: ");
-            Console.WriteLine("Sinulta kysytään 3 kokonaislukua ja sitten sulle kerrotaan mikä niistä oli isoin luku.")
+            Console.WriteLine("Sinulta kysytään 3 kokonaislukua ja sitten sulle kerrotaan mikä niistä oli isoin luku.");
             Console.WriteLine("Anna yksi luku");
             int x2 = int.Parse(Console.ReadLine());
             int isoin = x2;
@@ -41,11 +49,17 @@ namespace ehtolauseet1
                 isoin = z2;
             }
             Console.WriteLine("Isoin luku: " + isoin);
+            Console.WriteLine(" ");
+            Console.WriteLine(" ");
 
 
-            // Tehtävä 3: Kysyy luvun 0-9 ja riippuen luvusta tulostaa sen sanana.
+            // Tehtävä 3:
+            // Kirjoita ohjelma, joka pyytää kokonaislukua (0-9)
+            // ja riippuen annetusta luvusta, tulostaa sen sanana.
+            // Käytä switch komentoa
+
             Console.WriteLine("Tehtävä 3: ");
-            Console.WriteLine("");
+            Console.WriteLine("Sinulta kysytään numero 0-9 ja sitten ohjelma tulostaa sen sanana.");
             Console.WriteLine("Anna numero 0-9");
             string nro09 = Console.ReadLine();
             switch(nro09)
@@ -84,8 +98,13 @@ namespace ehtolauseet1
                     Console.WriteLine("Syöttö ei kelpaa. Anna numero 0 - 9");
                     break;
             }
+            Console.WriteLine(" ");
+            Console.WriteLine(" ");
 
-            // Tehtävä 4: Ohjelma kysyy 5 kokonaislukua ja kertoo mikä on isoin.
+
+            // Tehtävä 4:
+            // Kirjoita ohjelma, joka etsii suurimman annetuista 5 kokonaisluvusta
+
             Console.WriteLine("Tehtävä 4: ");
             Console.WriteLine("Sinulta kysytään viisi kokonaislukua yksi kerrallaan ja lopulta ohjelma kertoo mikä luku niistä oli isoin.");
             Console.WriteLine("Syötä 1. kokonaisluku: ");
@@ -104,11 +123,19 @@ namespace ehtolauseet1
             int koko5 = int.Parse(Console.ReadLine());
             if (koko5 > suuurin) { suuurin = koko5; }
             Console.WriteLine("Suurin syötetty kokonaisluku on " + suuurin);
+            Console.WriteLine(" ");
+            Console.WriteLine(" ");
 
 
-            // Tehtävä 5: Ohjelma kysyy halutaanko syöttää kokonaisluku, desimaaliluku vai merkkijono.
-            // Jos käyttäjä syöttää luvun, kasvatetaan lukua yhdellä.
-            // Jos käyttäjä syöttää merkkijonon, lisätään loppuun '*'-merkki
+
+
+            // Tehtävä 5: Kirjoita ohjelma, joka kysyy käyttäjältä,
+            // mitä käyttäjä haluaa syöttää (kokonaisluvun, double-luvun tai merkkijonon).
+            // Mikäli käyttäjä haluaa syöttää luvun, ohjelma kasvattaa lukua yhdellä.
+            // Mikäli merkkijonon, ohjelma lisää loppuun *-merkin
+            // ja tulostaa tämän jälkeen vastauksen konsoliin.
+            // Käytä Switch komentoa
+
 
             Console.WriteLine("Tehtävä 5: ");
             Console.WriteLine("Hei!");
@@ -142,6 +169,8 @@ namespace ehtolauseet1
                     goto zzz;
 
             }
+            Console.WriteLine(" ");
+            Console.WriteLine(" ");
 
 
             // Tehtävä 6:
@@ -152,11 +181,11 @@ namespace ehtolauseet1
             // Mikäli pisteitä on 0 tai yli 9, ohjelma tulostaa virheviestin.
 
             Console.WriteLine("Tehtävä 6: ");
-            Console.WriteLine(" "); //ohjeet
+            Console.WriteLine("Sinulta pyydetään numeroa 1-9, jonka perusteella ohjelma kertoo bonuspisteesi määrän. "); //ohjeet
             Console.WriteLine("Syötä numero 1-9: ");
             int bonus = int.Parse(Console.ReadLine());
-            bnous:
-            switch(bonus)
+        bnous:
+            switch (bonus)
             {
                 case 1:
                 case 2:
@@ -179,9 +208,21 @@ namespace ehtolauseet1
                 default:
                     Console.WriteLine("Virheellinen syöttö, syötä numero 1-9.");
                     bonus = int.Parse(Console.ReadLine());
-                        goto bnous;
+                    goto bnous;
                     break;
             }
+            Console.WriteLine(" ");
+            Console.WriteLine(" ");
+
+            // Tehtävä 7:
+            // Kirjoita ohjelma, joka muuttaa numerot (0 – 999) sanoiksi.
+            // Esim. 0 -> Nolla
+            // 12 -> Kaksitoista
+            // 98 -> Yhdeksänkymmentä kahdeksan
+            // 273 -> Kaksisataa seitsemänkymmentä kolme
+
+            Console.WriteLine("Tehtävä 7:");
+            Console.WriteLine("kesken.");
 
 
 
