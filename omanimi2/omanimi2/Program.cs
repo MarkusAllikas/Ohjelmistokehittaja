@@ -10,7 +10,7 @@ namespace omanimi2
             Console.WriteLine("(syötä nimesi)");
             string nimi = Console.ReadLine();
 
-            Console.WriteLine("Tervetuloa " + nimi + "!");
+            Console.WriteLine("Tervetuloa " + nimi + "!"); // .
         }
     }
 }

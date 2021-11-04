@@ -11,3 +11,17 @@ C:\Users\markus.allikas\source\repos\Ohjelmistokehittaja\omanimi2\omanimi2\obj\D
 C:\Users\markus.allikas\source\repos\Ohjelmistokehittaja\omanimi2\omanimi2\obj\Debug\netcoreapp3.1\omanimi2.dll
 C:\Users\markus.allikas\source\repos\Ohjelmistokehittaja\omanimi2\omanimi2\obj\Debug\netcoreapp3.1\omanimi2.pdb
 C:\Users\markus.allikas\source\repos\Ohjelmistokehittaja\omanimi2\omanimi2\obj\Debug\netcoreapp3.1\omanimi2.genruntimeconfig.cache
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\omanimi2\omanimi2\bin\Debug\netcoreapp3.1\omanimi2.exe
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\omanimi2\omanimi2\bin\Debug\netcoreapp3.1\omanimi2.deps.json
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\omanimi2\omanimi2\bin\Debug\netcoreapp3.1\omanimi2.runtimeconfig.json
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\omanimi2\omanimi2\bin\Debug\netcoreapp3.1\omanimi2.runtimeconfig.dev.json
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\omanimi2\omanimi2\bin\Debug\netcoreapp3.1\omanimi2.dll
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\omanimi2\omanimi2\bin\Debug\netcoreapp3.1\omanimi2.pdb
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\omanimi2\omanimi2\obj\Debug\netcoreapp3.1\omanimi2.csproj.AssemblyReference.cache
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\omanimi2\omanimi2\obj\Debug\netcoreapp3.1\omanimi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\omanimi2\omanimi2\obj\Debug\netcoreapp3.1\omanimi2.AssemblyInfoInputs.cache
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\omanimi2\omanimi2\obj\Debug\netcoreapp3.1\omanimi2.AssemblyInfo.cs
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\omanimi2\omanimi2\obj\Debug\netcoreapp3.1\omanimi2.csproj.CoreCompileInputs.cache
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\omanimi2\omanimi2\obj\Debug\netcoreapp3.1\omanimi2.dll
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\omanimi2\omanimi2\obj\Debug\netcoreapp3.1\omanimi2.pdb
+C:\Users\Sipsik\Documents\Ohjelmistokehittaja\Ohjelmistokehittaja\omanimi2\omanimi2\obj\Debug\netcoreapp3.1\omanimi2.genruntimeconfig.cache
