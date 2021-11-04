@@ -8,7 +8,7 @@ namespace OmaNimi
         {
             Console.WriteLine("Hello " +
                 "Markus Allikas" +
-                "!");
+                "!"); //.
         }
     }
 }
