@@ -222,16 +222,148 @@ namespace ehtolauseet1
             // 273 -> Kaksisataa seitsemänkymmentä kolme
 
             Console.WriteLine("Tehtävä 7:");
-            Console.WriteLine("kesken.");
+            string lopp = "Lukusi kirjaimina:  ";
             Console.WriteLine("Syötä kokonaisluku väliltä 1-999");
             string luku = Console.ReadLine();
             int pikkus = luku.Length;
-            if (pikkus = 3)
+            if (pikkus == 3)
             {
+                lopp += sata(luku[0]);
+                if (luku[1] == '1')
+                {
+                    lopp += teist(luku[2]);
+                }
+                else
+                {
+                    lopp += kumme(luku[1]);
+                    lopp += uks(luku[2]);
+                }
+            }
+            else if (pikkus == 2)
+            {
+                if(luku[0] == '1')
+                {
+                    lopp += teist(luku[1]);
+                }
+                else
+                {
+                    lopp += kumme(luku[0]);
+                    lopp += uks(luku[1]);
+                }
+            }
+            else
+            {
+                lopp += uks(luku[0]);
+            }
 
-            } //kesken.
+            Console.WriteLine(lopp);
+            static string sata(int nmbr)
+            {
+                switch(nmbr)
+                {
+                    case '1':
+                        return "sata";
+                    case '2':
+                        return "kaksisataa";
+                    case '3':
+                        return "kolmesataa";
+                    case '4':
+                        return "neljäsataa";
+                    case '5':
+                        return "viisisataa";
+                    case '6':
+                        return "kuusisataa";
+                    case '7':
+                        return "seitsemänsataa";
+                    case '8':
+                        return "kahdeksansataa";
+                    case '9':
+                        return "yhdeksänsataa";
+                    default:
+                        return " ";
+                }
+            }
 
+            static string kumme(int nmbr)
+            {
+                switch(nmbr)
+                {
+                    case '1':
+                        return "kymmenen";
+                    case '2':
+                        return "kaksikymmentä";
+                    case '3':
+                        return "kolmekymmentä";
+                    case '4':
+                        return "neljäkymmentä";
+                    case '5':
+                        return "viisikymmentä";
+                    case '6':
+                        return "kuusikymmentä";
+                    case '7':
+                        return "seitsemänkymmentä";
+                    case '8':
+                        return "kahdeksankymmentä";
+                    case '9':
+                        return "yhdeksänkymmentä";
+                    default:
+                        return " ";
+                }
+            }
 
+            static string uks(int nmbr)
+            {
+                switch (nmbr)
+                {
+                    case '1':
+                        return "yksi";
+                    case '2':
+                        return "kaksi";
+                    case '3':
+                        return "kolme";
+                    case '4':
+                        return "neljä";
+                    case '5':
+                        return "viisi";
+                    case '6':
+                        return "kuusi";
+                    case '7':
+                        return "seitsemän";
+                    case '8':
+                        return "kahdeksan";
+                    case '9':
+                        return "yhdeksän";
+                    default:
+                        return " ";
+                }
+            }
+
+            static string teist(int nmbr)
+            {
+                switch (nmbr)
+                {
+                    case '1':
+                        return "yksitoista";
+                    case '2':
+                        return "kaksitoista";
+                    case '3':
+                        return "kolmetoista";
+                    case '4':
+                        return "neljätoista";
+                    case '5':
+                        return "viisitoista";
+                    case '6':
+                        return "kuusitoista";
+                    case '7':
+                        return "seitsemäntoista";
+                    case '8':
+                        return "kahdeksantoista";
+                    case '9':
+                        return "yhdeksäntoista";
+                    default:
+                        return " ";
+                }
+            }
 
 
         }
