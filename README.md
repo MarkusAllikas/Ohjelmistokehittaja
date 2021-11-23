@@ -3,4 +3,4 @@
 git add *
 git commit
 esc :x!
-git push
+git push Ohjelmistokehittaja
